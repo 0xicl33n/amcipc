@@ -1,4 +1,4 @@
-# mcipc
+# amcipc
 
 A Minecraft inter-process communication API implementing the [RCON](http://wiki.vg/RCON) and [Query](http://wiki.vg/Query) protocols.
 
